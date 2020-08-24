@@ -34,7 +34,7 @@ namespace Bet_and_Get
         {
             if (Car == Winner)
             {
-                return Amount;
+                return  Amount;
             }
             return -Amount;
         }

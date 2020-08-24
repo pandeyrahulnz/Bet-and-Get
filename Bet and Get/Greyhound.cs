@@ -24,6 +24,7 @@ namespace Bet_and_Get
 
             MoveMyPictureBox(distance);
 
+
             Location += distance;
             if (Location >= (RacetrackLength - StartingPosition))
             {

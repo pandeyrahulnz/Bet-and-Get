@@ -140,6 +140,16 @@ namespace Bet_and_Get
 
             button1.Enabled = true;
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        public void startingPosition()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
 
